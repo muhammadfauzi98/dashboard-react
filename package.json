@@ -1,6 +1,8 @@
 {
   "name": "dashboardreact-js",
   "version": "0.1.0",
+  "homepage": "https://muhammadfauzi98.github.io/dashboard-react",
+  "author": "Muhammad Fauzi",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
