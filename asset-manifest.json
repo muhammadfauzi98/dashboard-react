@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dashboard-react/static/css/main.0ed16054.css",
+    "main.js": "/dashboard-react/static/js/main.4d4adee4.js",
+    "static/js/453.eb39deb8.chunk.js": "/dashboard-react/static/js/453.eb39deb8.chunk.js",
+    "static/media/logo.webp": "/dashboard-react/static/media/logo.1905d03403542893d043.webp",
+    "index.html": "/dashboard-react/index.html",
+    "main.0ed16054.css.map": "/dashboard-react/static/css/main.0ed16054.css.map",
+    "main.4d4adee4.js.map": "/dashboard-react/static/js/main.4d4adee4.js.map",
+    "453.eb39deb8.chunk.js.map": "/dashboard-react/static/js/453.eb39deb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ed16054.css",
+    "static/js/main.4d4adee4.js"
+  ]
+}
