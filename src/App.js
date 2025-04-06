@@ -9,7 +9,7 @@ import Sidebar from './components/Sidebar';
 function App() {
   return (
     <div className="App">
-    <BrowserRouter basename='dashbaord-react'>
+    <BrowserRouter basename='/dashbaord-react'>
     <Header />
       <div className='main d-flex'>
         <div className='sidebar-wrapper'>
