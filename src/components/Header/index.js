@@ -17,7 +17,7 @@ import { Settings, Logout } from '@mui/icons-material';
 import logo from '../../assets/images/logo.webp';
 
 // Component Import
-import SearchBox from '../SearchBox/index';
+import SearchBox from '../Searchbox/index';
 
 
 export default function Header() {
